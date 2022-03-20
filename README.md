@@ -1,23 +1,18 @@
-# Sign Language to Speech Convertor
+# Sign Language to Speech Convertor Using SVM classifier
 Sign Language to Speech Convertor is a library used to convert sign language accelerometer data to word and sentences.
 
-If you want to implement or customize this yourself, [check out the tutorial below.](#how-to-use-the-library)
+https://ieeexplore.ieee.org/abstract/document/8929356/
 
 
 ## Module
 
 In order to get the accelerometer data, I build a module using an Arduino, a MPU-6050 as accelerometer and a HC-06 to enable bluetooth comunication. The entire module gets powered by using a power bank.
 
-![The Arduino Module](images/module.jpg)
+
 
 When someone press the first button, the module starts to send accelerometer data to the pc.
 When the button is relased, the transmission stops.
 
-## Circuit
-
-The various components are connected as shown in the circuit schematic below.
-
-![Circuit](images/circuit.png)
 
 ## Library
 
