@@ -1,5 +1,5 @@
-# Sign Language to Speech Convertor Using SVM classifier
-Sign Language to Speech Convertor is a library used to convert sign language accelerometer data to word and sentences.
+# Sign Language to Speech Converter Using SVM classifier
+Sign Language to Speech Converter is a library used to convert sign language accelerometer data to word and sentences.
 
 https://ieeexplore.ieee.org/abstract/document/8929356/
 
